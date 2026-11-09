@@ -1,5 +1,7 @@
 # Qingyue
 
+[![X](https://img.shields.io/badge/X-@YuLin807-000000?logo=x&logoColor=white)](https://x.com/YuLin807) [![Google](https://img.shields.io/badge/Google-QingYue-4285F4?logo=google&logoColor=white)](https://profile.google.com/@yulin807) [![Stars](https://img.shields.io/github/stars/ythx-101?affiliations=OWNER&style=flat&logo=github&label=Stars)](https://github.com/ythx-101?tab=repositories)
+
 非程序员。用 pi + herdr 养 agent，把真实工作流、成本和踩坑做成开源工具。
 
 [X @YuLin807](https://x.com/yulin807) · [openclaw 茶馆](https://github.com/ythx-101/openclaw-qa/discussions/22)
